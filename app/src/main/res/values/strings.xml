@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="true_button">verdadero</string>
+    <string name="false_button">falso</string>
+
+    <string name="correct_toast">Correcto.</string>
+    <string name="incorrect_toast">Incorrecto</string>
+    <string name="title_activity_test">test</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_button">Siguiente.</string>
+    <string name="previous_button">Anterior.</string>
+    <string name="question_manta">MANTA ESTA LOCALIZADA EN LA PROVINACIA DE MANABI.</string>
+    <string name="question_volcan">EL VOLCAN COTOPAXI ESTA UBICADO EN LA PROVINCIA DE PICHINCHA.</string>
+    <string name="question_text">QUITO ES LA CIUDAD DEL ECUADOR CON MAS HABITANTES.</string>
+    <string name="question_guayaquil">GUAYAQUIL ES LA CIUDAD DEL ECUADOR CON MAS HABITANTES.</string>
+    <string name="question_capital">CUENCA ES LA CAPITAL DEL ECUADOR.</string>
+
+</resources>
